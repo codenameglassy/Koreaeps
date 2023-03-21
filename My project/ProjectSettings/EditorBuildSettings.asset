@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/SelectCountry.unity
+    guid: 1291235a30457b341906c5c079e2d0a3
+  - enabled: 1
+    path: Assets/Scenes/Nepal.unity
+    guid: 2049d6a4c015459489d5368651013621
+  - enabled: 1
+    path: Assets/Scenes/Korea.unity
+    guid: ee9bd82be697c55409b8e003369a5195
+  - enabled: 1
+    path: Assets/Scenes/Korea Gameplay.unity
+    guid: 956a7dee81aec574f9373b3e175767cb
+  - enabled: 1
+    path: Assets/Scenes/Nepal Gameplay.unity
+    guid: 09d4945d6a46ce44783e7781dcc6e414
+  m_configObjects: {}
